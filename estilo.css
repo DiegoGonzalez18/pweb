@@ -1,3 +1,24 @@
+img{
+	width: 300px;
+	height: 200px;
+}
+#as{
+		width: 100px;
+	height:100px;
+
+}
+.yoimagen{
+	
+	
+	margin-top: -50px;
+	border: 2px solid #ddd;
+}
+.logito{
+	height: 80px;
+	width: 80px;
+
+}
 .footer{
-margin-bottom: -20px;
+	 position: all;
+	 margin-bottom: -20px;
 }
